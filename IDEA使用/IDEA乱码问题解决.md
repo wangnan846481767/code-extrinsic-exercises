@@ -1,7 +1,6 @@
 # 工程乱码
 
 打开File-Setting, 找到File Encodings这个选项，把encoding设置成你工程的编码即可，一般是UTF-8，如下图（红框的地方），然后重新rebuild一下，基本就行了
-
 ![20180618122110880.png](0)
 
 # 执行main函数时，控制台乱码
