@@ -12,4 +12,4 @@
 1. 打开Run/Debug Configuration,选择你的tomcat
 	![title](https://raw.githubusercontent.com/wangnan846481767/gitnote-images/master/gitnote/2019/06/20/20180618122616180-1560999390661.png)
 2. 然后在 Server > VM options 设置为 -Dfile.encoding=UTF-8 ，重启tomcat
- 	![20180618122645199.png](3)
+ 	![title](https://raw.githubusercontent.com/wangnan846481767/gitnote-images/master/gitnote/2019/06/20/20180618122645199-1560999406638.png)
