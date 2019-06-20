@@ -10,6 +10,6 @@
 
 # 运行tomcat时，控制台乱码
 1. 打开Run/Debug Configuration,选择你的tomcat
-	![title](https://raw.githubusercontent.com/wangnan846481767/gitnote-images/master/gitnote/2019/06/20/20180618122616180-1560999390661.png)
+	![title](https://raw.githubusercontent.com/wangnan846481767/gitnote-images/master/2019/06/20/20180618122616180-1560999390661.png)
 2. 然后在 Server > VM options 设置为 -Dfile.encoding=UTF-8 ，重启tomcat
  	![title](https://raw.githubusercontent.com/wangnan846481767/gitnote-images/master/2019/06/20/20180618122645199-1560999406638.png)
